@@ -1,0 +1,163 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rel{
+    background-color: #f0f2f5;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.face{
+    color: rgb(8, 107, 255);
+    font-family: Helvetica Neue;
+    font-size: 70px;
+    padding-top: 185px;
+    padding-left: 150px;
+}
+
+.book{
+    font-family: inherit;
+    font-size: 35px;
+    padding-left: 150px;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid  white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+
+.button {
+    margin-top: 10px;
+    background-color: #1877f2;
+    color: #fff;
+   
+}
+.button:hover {
+    background-color: #146de0;
+}
+
+
+.flex1{
+    margin-left: 115px;
+    margin-top: 100px;
+    height: 306px;
+    width: 396px;
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.textt{
+    font-size: 15px;
+      height: 50px;
+      width: 390px;
+      opacity: 60%;
+      border-radius: 4px 4px 4px 4px ;
+     border: 1px solid rgb(227, 221, 221)
+    
+}
+
+.password{
+    font-size: 15px;
+    margin-top: 10px;
+    height: 50px;
+    width: 390px;
+    
+    opacity: 60%;
+    border-radius: 4px 4px 4px 4px ;
+    border: 1px solid rgb(227, 221, 221)
+}
+
+
+
+
+
+
+
+
+
+.button2 {
+    font-size: 60px;
+    width: 53%;
+    height: 65px;
+    padding: 10px;
+    border: 1px solid  white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+
+.button2 {
+    font-size: 21px;
+    margin-top: 10px;
+    background-color: #36ac61;
+    color: #fff;
+   
+}
+.button2:hover {
+    background-color: #167c35;
+}
+
+
+.links {
+    color: #146de0;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+   
+}
+.links a {
+    text-decoration: none;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+
+.ok{
+    padding-top: 90px;
+}
+.ok a {
+    text-decoration: none;
+}
+
+.ok a:hover{
+    text-decoration: underline;
+}
+
+
+
+.false{
+    background-color: whitesmoke;
+    border-top: 1px solid white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 12px;
+    color: lightgray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.false a {
+        color: cornflowerblue;
+        text-decoration: none;
+        margin: 0 10px;
+}
+
+.false a:hover{
+        text-decoration: underline;
+    
+}
